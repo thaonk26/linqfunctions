@@ -1,0 +1,9 @@
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 6\LinqExamples\LinqExamples\bin\Debug\LinqExamples.exe.config
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 6\LinqExamples\LinqExamples\bin\Debug\LinqExamples.exe
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 6\LinqExamples\LinqExamples\bin\Debug\LinqExamples.pdb
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 6\LinqExamples\LinqExamples\obj\Debug\LinqExamples.csprojResolveAssemblyReference.cache
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 6\LinqExamples\LinqExamples\obj\Debug\LinqExamples.exe
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 6\LinqExamples\LinqExamples\obj\Debug\LinqExamples.pdb
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 6\Examples of LINQ\LinqExamples\LinqExamples\bin\Debug\LinqExamples.exe.config
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 6\Examples of LINQ\LinqExamples\LinqExamples\obj\Debug\LinqExamples.exe
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 6\Examples of LINQ\LinqExamples\LinqExamples\obj\Debug\LinqExamples.pdb
