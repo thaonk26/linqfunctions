@@ -32,26 +32,5 @@ namespace LinqExamples
             total = (int)templist.Skip(3).Average();
             return total;
         }
-        //public string Frequency(string r)
-        //{
-        //    int count = 1;
-        //    string name = r;
-
-        //    for (int i = 0; i < r.Length; i++)
-        //    {
-        //        int temp = 0;
-        //        for (int z = 0; z < r.Length; z++)
-        //        {
-        //            if (r[i].ToString().ToUpper() == r[z].ToString().ToUpper())
-        //            {
-        //                temp++;
-        //            }
-        //        }
-        //        name = name.Insert(i + count, temp.ToString());
-        //        count++;
-        //    }
-
-        //    return name;
-        //}
     }
 }

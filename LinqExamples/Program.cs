@@ -16,8 +16,6 @@ namespace LinqExamples
 
             haha.num = (string x) => { return haha.AddNum(x); };
             Console.WriteLine(haha.num(moreNumbers));
-            //haha.xx = (string r) => { return haha.Frequency(r); };
-            //Console.WriteLine(haha.xx(name).ToString());
             var counts = name.ToLower().GroupBy(c => c).Select(g => new { Letter = g.Key, Count = g.Count() });
             
             foreach (var item in counts)
